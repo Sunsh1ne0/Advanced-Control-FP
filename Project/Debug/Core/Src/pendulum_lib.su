@@ -1,0 +1,16 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2134:22:LL_TIM_OC_SetCompareCH2	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2151:22:LL_TIM_OC_SetCompareCH3	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:800:26:LL_GPIO_IsInputPinSet	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/pendulum_lib.c:44:6:speedControl	16	static
+../Core/Src/pendulum_lib.c:60:6:speedController	32	static
+../Core/Src/pendulum_lib.c:128:6:moveCarridge	24	static
+../Core/Src/pendulum_lib.c:175:9:moveToPosition	40	static
+../Core/Src/pendulum_lib.c:213:8:poleCalibration	16	static
+../Core/Src/pendulum_lib.c:232:9:calibration	16	static,ignoring_inline_asm
+../Core/Src/pendulum_lib.c:317:9:getTicksCartPosition	4	static
+../Core/Src/pendulum_lib.c:322:9:getTicksPolePosition	4	static
+../Core/Src/pendulum_lib.c:327:7:getCartSpeed	16	static
+../Core/Src/pendulum_lib.c:338:7:getPoleSpeed	16	static
+../Core/Src/pendulum_lib.c:345:6:start_melody	16	static

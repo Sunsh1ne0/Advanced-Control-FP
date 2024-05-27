@@ -1,0 +1,4 @@
+../Core/Src/Terminal.c:24:9:calc_crc	2
+../Core/Src/Terminal.c:32:19:Send_response	2
+../Core/Src/Terminal.c:45:6:TERMINAL	6
+../Core/Src/Terminal.c:94:6:HAL_UART_RxCpltCallback	8

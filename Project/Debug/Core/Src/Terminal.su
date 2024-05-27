@@ -1,0 +1,4 @@
+../Core/Src/Terminal.c:24:9:calc_crc	24	static
+../Core/Src/Terminal.c:32:19:Send_response	32	static
+../Core/Src/Terminal.c:45:6:TERMINAL	24	static
+../Core/Src/Terminal.c:94:6:HAL_UART_RxCpltCallback	24	static
