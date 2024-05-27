@@ -29,8 +29,8 @@ The project includes such key objectives as:
 
 ---
 
-## Results
-Detailed explanation of the findings, performance metrics, and outcomes of the project. This section may include graphs, tables, and other visual aids to support the results.
+<!-- ## Results
+
 
 ---
 
@@ -70,4 +70,4 @@ This is a placeholder for any additional sections that the team wishes to includ
 - Reference 1
 - Reference 2
 - Reference 3
-
+ -->
