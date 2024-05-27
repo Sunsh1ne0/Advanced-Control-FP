@@ -1,0 +1,16 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2134:22:LL_TIM_OC_SetCompareCH2	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2151:22:LL_TIM_OC_SetCompareCH3	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:800:26:LL_GPIO_IsInputPinSet	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	1
+../Core/Src/pendulum_lib.c:44:6:speedControl	6
+../Core/Src/pendulum_lib.c:60:6:speedController	9
+../Core/Src/pendulum_lib.c:128:6:moveCarridge	9
+../Core/Src/pendulum_lib.c:175:9:moveToPosition	8
+../Core/Src/pendulum_lib.c:213:8:poleCalibration	4
+../Core/Src/pendulum_lib.c:232:9:calibration	12
+../Core/Src/pendulum_lib.c:317:9:getTicksCartPosition	1
+../Core/Src/pendulum_lib.c:322:9:getTicksPolePosition	1
+../Core/Src/pendulum_lib.c:327:7:getCartSpeed	1
+../Core/Src/pendulum_lib.c:338:7:getPoleSpeed	1
+../Core/Src/pendulum_lib.c:345:6:start_melody	1
