@@ -67,6 +67,5 @@ python main.py <COM PORT>
 ---
 
 ## Bibliography
-(If applicable) This section includes references to papers, articles, and other resources that informed the project's approach and methodology.
 
 - Tran, Ashley & Pepitone, Paola & Choi, Jun. (2019). State Space and Energy Based Control for an Autonomous Self-Rising Inverted Pendulum. 10.13140/RG.2.2.36425.70243. 
