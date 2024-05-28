@@ -15,7 +15,6 @@ The "Energy based controller for real inverted pendulum stand" project is aimed 
 - [Problem Statement](#problem-statement)
 - [Results](#results)
 - [Run the Project](#run-the-project)
-- [Other Section](#other-section)
 - [Bibliography](#bibliography)
 
 ---
