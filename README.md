@@ -62,14 +62,7 @@ Instructions for setting up the project environment, which may include:
 Exact commands to execute the project, such as:
 ```bash
 python main.py <COM PORT>
-
-### Documentation
-If available, provide links to the project documentation or instructions on how to generate it.
-
----
-
-## Other Section
-This is a placeholder for any additional sections that the team wishes to include. It could be methodology, discussions, acknowledgments, or any other relevant content that doesn't fit into the predefined sections.
+```
 
 ---
 
