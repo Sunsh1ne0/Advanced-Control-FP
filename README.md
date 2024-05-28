@@ -41,6 +41,7 @@ Despite the fact, that "in metal" implementation of the cart-pole system is pret
 ![alt text](image.png)
 
 However, the project is opened for the future work, such as making the cart position control and implementating the MPC, requiring some changes to stand hardware.
+
 ---
 
 ## Run the Project
