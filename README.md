@@ -37,7 +37,9 @@ The outcomes of the project are:
 - PD controller for the pendulum angular position was developed and Energy-based controller were implemented
 
 Despite the fact, that "in metal" implementation of the cart-pole system is pretty challenging task, we were able to deal with most of the problems on our winding way and, as a result, got a full working real-life model with a fine tuned controllers in it.
+
 ![alt text](image.png)
+
 However, the project is opened for the future work, such as making the cart position control and implementating the MPC, requiring some changes to stand hardware.
 ---
 
@@ -53,14 +55,14 @@ However, the project is opened for the future work, such as making the cart posi
  - PySerial
 
 ### Setup and Installation
-Instructions for setting up the project environment, which may include:
+The project setup includes following steps:
 - Installing dependencies: `pip install -r requirements.txt`
 - Setting up a virtual environment
 - Connect USB-UART converter to the PC
 - Define the number of the COM port in the system
 
 ### Running the Code
-Exact commands to execute the project, such as:
+To start the project, you need to run following command:
 ```bash
 python main.py <COM PORT>
 ```
